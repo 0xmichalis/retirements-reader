@@ -1,4 +1,4 @@
-# sol-template [![CI](https://github.com/0xmichalis/sol-template/actions/workflows/ci.yml/badge.svg)](https://github.com/0xmichalis/sol-template/actions/workflows/ci.yml)
+# sol-template [![Build](https://github.com/0xmichalis/sol-template/actions/workflows/build.yml/badge.svg)](https://github.com/0xmichalis/sol-template/actions/workflows/build.yml) [![Tests](https://github.com/0xmichalis/sol-template/actions/workflows/test.yml/badge.svg)](https://github.com/0xmichalis/sol-template/actions/workflows/test.yml) [![Lint](https://github.com/0xmichalis/sol-template/actions/workflows/lint.yml/badge.svg)](https://github.com/0xmichalis/sol-template/actions/workflows/lint.yml) [![Static analysis](https://github.com/0xmichalis/sol-template/actions/workflows/analyze.yml/badge.svg)](https://github.com/0xmichalis/sol-template/actions/workflows/analyze.yml)
 
 Barebones template to get started with Solidity projects.
 
