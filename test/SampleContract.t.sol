@@ -8,15 +8,15 @@ import {SampleContract} from '../src/SampleContract.sol';
 contract SampleContractTest is Test {
     SampleContract sampleContract;
 
-    function setUp() public {
+    function setUp() external {
         sampleContract = new SampleContract();
     }
 
-    function testFunc1() public {
+    function testFunc1() external {
         sampleContract.func1(1337);
     }
 
-    function testFunc2() public {
+    function testFunc2() external {
         sampleContract.func2(1337);
     }
 }
