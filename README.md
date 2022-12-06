@@ -1,23 +1,13 @@
-# sol-template [![Build](https://github.com/0xmichalis/sol-template/actions/workflows/build.yml/badge.svg)](https://github.com/0xmichalis/sol-template/actions/workflows/build.yml) [![Tests](https://github.com/0xmichalis/sol-template/actions/workflows/test.yml/badge.svg)](https://github.com/0xmichalis/sol-template/actions/workflows/test.yml) [![Lint](https://github.com/0xmichalis/sol-template/actions/workflows/lint.yml/badge.svg)](https://github.com/0xmichalis/sol-template/actions/workflows/lint.yml) [![Static analysis](https://github.com/0xmichalis/sol-template/actions/workflows/analyze.yml/badge.svg)](https://github.com/0xmichalis/sol-template/actions/workflows/analyze.yml)
+# Retirement reader
 
-Barebones template to get started with Solidity projects.
+Read on-chain carbon retirements.
+
+All Toucan contracts can be found [here](https://app.toucan.earth/contracts).
 
 ## Install
 
 ```sh
-git clone https://github.com/0xmichalis/sol-template.git
-cd sol-template
+git clone https://github.com/0xmichalis/retirement-reader.git
+cd retirement-reader
 forge install
-```
-
-## Test
-
-```sh
-forge test
-```
-
-## Update Gas Snapshot
-
-```sh
-forge snapshot
 ```
