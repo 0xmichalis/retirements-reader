@@ -8,7 +8,7 @@ The Klima retirements contract can be found [here](https://polygonscan.com/addre
 ## Install
 
 ```sh
-git clone https://github.com/0xmichalis/retirement-reader.git
-cd retirement-reader
+git clone https://github.com/0xmichalis/retirements-reader.git
+cd retirements-reader
 forge install
 ```
